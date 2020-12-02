@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"P am editing the unknown file to learn githun."
 Use the left arrow to go back!
